@@ -350,6 +350,10 @@ img{
     font-size: var(--normal-font-size);
     cursor: pointer;
 }
+#textarea::placeholder{
+    font-family: var(--body-font);
+    font-size: var(--normal-font-size);
+}
 
 /* ===== FOOTER=====*/
 .footer{
